@@ -1,9 +1,30 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Senior Developer",
+      "company": "Facebook",
+      "location": "Menlo Park, CA",
+      "url": "https://www.facebook.com/opensource",
+      "description":"",
+      "hours": 0,
+      "tags": [
+        "Senior",
+        "Developer",
+        "Facebook"
+      ],
+      "email":  "nZGJq@example.com",
+      "category": "Developer",
+      "jobType": "Full-time",
+      "experience": "5+ years",
+      "vacancies": 2,
+      "salary": "5,000 - 10,000",
+      "status": "open",
+      "date": "2022-01-01",
+      "time": "10:00:00",
+      "address": "Menlo Park, CA",
+      "phone": "555-555-5555",
+      "deadline": "2022-01-01"
+    }
+  ]
 }
